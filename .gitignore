@@ -1,0 +1,15 @@
+#IDEA/eclipse settings
+.idea
+.settings
+.classpath
+.project
+*.iml
+.editorconfig
+# build
+build
+target
+out
+lib
+bin
+# MAC OS
+.DS_Store
